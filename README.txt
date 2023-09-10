@@ -1,8 +1,4 @@
-COMP 304 Project 3
 Mini File System
-Corresponding TA: Mandana BagheriMarzijarani
-Due: June 7, 2022   
-Sinan Cem Erdoğan - 68912
 
 •	mini fat create(filename, block size, block count)
 The function just creates just sized (block size * block count) fat file (disk) using filename.
